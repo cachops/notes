@@ -7,8 +7,12 @@
         "id": "3fdd3186cfdfdecc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Alpha.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Alpha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Alpha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Alpha.md"
+              }
             }
           }
         ]
@@ -120,9 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee34739f1717158a",
+  "active": "3fdd3186cfdfdecc",
   "lastOpenFiles": [
-    "alpha.md",
-    "README.md"
+    "README.md",
+    "Alpha.md"
   ]
 }
