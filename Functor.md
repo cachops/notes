@@ -1,0 +1,1 @@
+Is a map between 2 [[Category|categories]].

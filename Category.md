@@ -1,0 +1,1 @@
+A Category is a collection of [[Objetc|Objects]] and [[Morphism|Morphisms]] they have between each other.

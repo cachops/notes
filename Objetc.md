@@ -1,0 +1,1 @@
+In Category Theory, a Object is something abstract that you choose to call Objetct (?). i.e. is something.
